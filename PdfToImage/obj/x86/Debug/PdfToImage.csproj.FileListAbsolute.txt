@@ -1,0 +1,5 @@
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfToImage\bin\x86\Debug\PdfToImage.dll
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfToImage\bin\x86\Debug\PdfToImage.pdb
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfToImage\obj\x86\Debug\PdfToImage.csprojAssemblyReference.cache
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfToImage\obj\x86\Debug\PdfToImage.dll
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfToImage\obj\x86\Debug\PdfToImage.pdb

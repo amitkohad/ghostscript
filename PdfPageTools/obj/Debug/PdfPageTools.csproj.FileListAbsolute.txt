@@ -1,0 +1,7 @@
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfPageTools\bin\Debug\PdfPageTools.dll
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfPageTools\bin\Debug\PdfPageTools.pdb
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfPageTools\bin\Debug\PdfSharp.dll
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfPageTools\obj\Debug\PdfPageTools.csprojAssemblyReference.cache
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfPageTools\obj\Debug\PdfPageTools.csproj.CopyComplete
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfPageTools\obj\Debug\PdfPageTools.dll
+D:\Work\repo\poc\ConvertPDF_source_1.2\PdfPageTools\obj\Debug\PdfPageTools.pdb
